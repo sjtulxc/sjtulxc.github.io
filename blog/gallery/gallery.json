@@ -23,46 +23,46 @@
 
 ,
 {
-  "src": ""/img/20150405.jpg""
+  "src": ""/img/cover/wuhan_cover.jpg""
   , "width": ""nil"px"
   , "thumbnail": ""/img/icon/lushan_icon.jpg""
-  , "title": ""武汉-庐山""
-  , "link": ""/img/20150405.jpg""
-  , "caption": ""武汉-庐山""
-  , "alt": ""武汉-庐山""
+  , "title": ""黄鹤楼""
+  , "link": ""/img/cover/wuhan_cover.jpg""
+  , "caption": ""黄鹤楼""
+  , "alt": ""黄鹤楼""
 }
 
 ,
 {
-  "src": ""/img/20151003.jpg""
+  "src": ""/img/cover/guizhou_cover.jpg""
   , "width": ""nil"px"
   , "thumbnail": ""/img/icon/20151003_icon.jpg""
-  , "title": ""贵州""
-  , "link": ""/img/20151003.jpg""
-  , "caption": ""贵州""
-  , "alt": ""me""
+  , "title": ""陡坡塘瀑布""
+  , "link": ""/img/cover/guizhou_cover.jpg""
+  , "caption": ""陡坡塘瀑布""
+  , "alt": ""陡坡塘瀑布""
 }
 
 ,
 {
-  "src": ""/img/20150405.jpg""
+  "src": ""/img/cover/xiamen_cover.jpg""
   , "width": ""nil"px"
   , "thumbnail": ""/img/icon/xiamen_icon.jpg""
-  , "title": ""厦门""
-  , "link": ""/img/20150405.jpg""
-  , "caption": ""厦门""
-  , "alt": ""厦门""
+  , "title": ""集美学村""
+  , "link": ""/img/cover/xiamen_cover.jpg""
+  , "caption": ""集美学村""
+  , "alt": ""集美学村""
 }
 
 ,
 {
-  "src": ""/img/20150405.jpg""
+  "src": ""/img/cover/hangzhou_cover.jpg""
   , "width": ""nil"px"
   , "thumbnail": ""/img/icon/hangzhou_icon.jpg""
-  , "title": ""杭州-千岛湖""
-  , "link": ""/img/20150405.jpg""
-  , "caption": ""杭州-千岛湖""
-  , "alt": ""杭州-千岛湖""
+  , "title": ""西湖烟雨""
+  , "link": ""/img/cover/hanghzou_cover.jpg""
+  , "caption": ""西湖烟雨""
+  , "alt": ""西湖烟雨""
 }
 
 ,
