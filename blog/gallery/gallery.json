@@ -1,24 +1,24 @@
 {
   "images": [
 {
-  "src": ""/img/20150405.jpg""
-  , "width": ""nil"px"
+  "src": ""/img/cover/suzhou_cover.jpg""
+  
   , "thumbnail": ""/img/icon/suzhou_icon.jpg""
-  , "title": ""苏州""
-  , "link": ""/img/20150405.jpg""
-  , "caption": ""苏州""
-  , "alt": ""苏州""
+  , "title": ""苏州园林里怒放的石楠""
+  , "link": "["/img/icon/suzhou_icon.jpg","/img/cover/suzhou_cover.jpg"]"
+  , "caption": ""苏州园林里怒放的石楠""
+  , "alt": ""苏州园林里怒放的石楠""
 }
 
 ,
 {
-  "src": ""/img/20150405.jpg""
+  "src": ""/img/cover/shantou_cover.jpg""
   , "width": ""nil"px"
-  , "thumbnail": ""/img/icon/20150405_icon.jpg""
-  , "title": ""汕头""
-  , "link": ""/img/20150405.jpg""
-  , "caption": ""汕头""
-  , "alt": ""汕头""
+  , "thumbnail": ""/img/icon/shantou_icon.jpg""
+  , "title": ""干粿&牛腩汤""
+  , "link": "["/img/cover/shantou_cover.jpg"]"
+  , "caption": ""干粿&牛腩汤""
+  , "alt": ""干粿&牛腩汤""
 }
 
 ,
@@ -27,7 +27,7 @@
   , "width": ""nil"px"
   , "thumbnail": ""/img/icon/lushan_icon.jpg""
   , "title": ""黄鹤楼""
-  , "link": ""/img/cover/wuhan_cover.jpg""
+  , "link": "["/img/icon/lushan_icon.jpg","/img/cover/wuhan_cover.jpg"]"
   , "caption": ""黄鹤楼""
   , "alt": ""黄鹤楼""
 }
@@ -36,9 +36,9 @@
 {
   "src": ""/img/cover/guizhou_cover.jpg""
   , "width": ""nil"px"
-  , "thumbnail": ""/img/icon/20151003_icon.jpg""
+  , "thumbnail": ""/img/icon/guizhou_icon.jpg""
   , "title": ""陡坡塘瀑布""
-  , "link": ""/img/cover/guizhou_cover.jpg""
+  , "link": "["/img/icon/guizhou_icon.jpg","/img/cover/guizhou_cover.jpg"]"
   , "caption": ""陡坡塘瀑布""
   , "alt": ""陡坡塘瀑布""
 }
@@ -49,7 +49,7 @@
   , "width": ""nil"px"
   , "thumbnail": ""/img/icon/xiamen_icon.jpg""
   , "title": ""集美学村""
-  , "link": ""/img/cover/xiamen_cover.jpg""
+  , "link": "["/img/icon/xiamen_icon.jpg","/img/cover/xiamen_cover.jpg"]"
   , "caption": ""集美学村""
   , "alt": ""集美学村""
 }
@@ -60,31 +60,31 @@
   , "width": ""nil"px"
   , "thumbnail": ""/img/icon/hangzhou_icon.jpg""
   , "title": ""西湖烟雨""
-  , "link": ""/img/cover/hanghzou_cover.jpg""
+  , "link": "["/img/icon/hangzhou_icon.jpg","/img/cover/hangzhou_cover.jpg"]"
   , "caption": ""西湖烟雨""
   , "alt": ""西湖烟雨""
 }
 
 ,
 {
-  "src": ""/img/20150405.jpg""
+  "src": ""/img/cover/nanjing_cover""
   , "width": ""nil"px"
   , "thumbnail": ""/img/icon/nanjing_icon.jpg""
-  , "title": ""南京""
-  , "link": ""/img/20150405.jpg""
-  , "caption": ""南京""
-  , "alt": ""南京""
+  , "title": ""玄武门前匆匆的游客照""
+  , "link": "["/img/icon/nanjing_icon.jpg","/img/cover/nanjing_cover.jpg"]"
+  , "caption": ""玄武门前匆匆的游客照""
+  , "alt": ""玄武门前匆匆的游客照""
 }
 
 ,
 {
-  "src": ""/img/20150405.jpg""
+  "src": ""/img/cover/yangzhou_cover.jpg""
   , "width": ""nil"px"
-  , "thumbnail": ""/img/icon/20150405_icon.jpg""
-  , "title": ""扬州""
-  , "link": ""/img/20150405.jpg""
-  , "caption": ""扬州""
-  , "alt": ""扬州""
+  , "thumbnail": ""/img/icon/yangzhou_icon.jpg""
+  , "title": ""夜行扬州""
+  , "link": "["/img/icon/yangzhou_icon.jpg","/img/cover/yangzhou_cover.jpg"]"
+  , "caption": ""夜行扬州""
+  , "alt": ""夜行扬州""
 }
 
 ,
