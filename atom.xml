@@ -4,7 +4,7 @@
   <title><![CDATA[与你流浪到世界的每一个角落]]></title>
   <link href="http://sjtulxc.github.io/atom.xml" rel="self"/>
   <link href="http://sjtulxc.github.io/"/>
-  <updated>2016-05-30T20:51:22+08:00</updated>
+  <updated>2016-06-01T08:11:42+08:00</updated>
   <id>http://sjtulxc.github.io/</id>
   <author>
     <name><![CDATA[Oringe Lin]]></name>
@@ -14,11 +14,21 @@
 
   
   <entry>
+    <title type="html"><![CDATA[上海③]]></title>
+    
+    <link href="http://sjtulxc.github.io/blog/Shanghai_part3/"/>
+    <updated>2016-05-01T18:00:00+08:00</updated>
+    <id>http://sjtulxc.github.io/blog/Shanghai_part3</id>
+    <content type="html"><![CDATA[<p>五一之行。</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[苏州]]></title>
     
-    <link href="http://sjtulxc.github.io/blog/20160407/Suzhou/"/>
+    <link href="http://sjtulxc.github.io/blog/Suzhou/"/>
     <updated>2016-04-07T18:00:00+08:00</updated>
-    <id>http://sjtulxc.github.io/blog/20160407/Suzhou</id>
+    <id>http://sjtulxc.github.io/blog/Suzhou</id>
     <content type="html"><![CDATA[<p>细细想了一下，这竟然是大三下学期屈指可数的旅行了。</p>
 
 <p>把当时记账的备忘录翻了出来，感觉果然行程便一目了然了呢，一次说走就走的旅行，发生在一个周四下午。</p>
@@ -52,115 +62,131 @@
   <entry>
     <title type="html"><![CDATA[汕头]]></title>
     
-    <link href="http://sjtulxc.github.io/blog/20160205/Shantou/"/>
+    <link href="http://sjtulxc.github.io/blog/Shantou/"/>
     <updated>2016-02-05T18:00:00+08:00</updated>
-    <id>http://sjtulxc.github.io/blog/20160205/Shantou</id>
+    <id>http://sjtulxc.github.io/blog/Shantou</id>
     <content type="html"><![CDATA[<p>汕头。</p>
-
-<h3>Day1</h3>
-
-<h3>Day2</h3>
-
-<h3>Day3</h3>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[武汉-庐山]]></title>
     
-    <link href="http://sjtulxc.github.io/blog/20160115/Wuhan/"/>
+    <link href="http://sjtulxc.github.io/blog/Wuhan/"/>
     <updated>2016-01-15T18:00:00+08:00</updated>
-    <id>http://sjtulxc.github.io/blog/20160115/Wuhan</id>
+    <id>http://sjtulxc.github.io/blog/Wuhan</id>
     <content type="html"><![CDATA[<p>武汉-庐山。</p>
-
-<h3>Day1</h3>
-
-<h3>Day2</h3>
-
-<h3>Day3</h3>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[贵州]]></title>
     
-    <link href="http://sjtulxc.github.io/blog/20151001/Guizhou/"/>
+    <link href="http://sjtulxc.github.io/blog/Guizhou/"/>
     <updated>2015-10-01T19:04:36+08:00</updated>
-    <id>http://sjtulxc.github.io/blog/20151001/Guizhou</id>
-    <content type="html"><![CDATA[<p>贵州</p>
-
-<h3>Day1</h3>
-
-<h3>Day2</h3>
-
-<h3>Day3</h3>
+    <id>http://sjtulxc.github.io/blog/Guizhou</id>
+    <content type="html"><![CDATA[<p>贵州。</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[厦门]]></title>
     
-    <link href="http://sjtulxc.github.io/blog/20150820/Xiamen/"/>
+    <link href="http://sjtulxc.github.io/blog/Xiamen/"/>
     <updated>2015-08-20T18:00:00+08:00</updated>
-    <id>http://sjtulxc.github.io/blog/20150820/Xiamen</id>
-    <content type="html"><![CDATA[
+    <id>http://sjtulxc.github.io/blog/Xiamen</id>
+    <content type="html"><![CDATA[<p>厦门。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[上海②]]></title>
+    
+    <link href="http://sjtulxc.github.io/blog/Shanghai_part2/"/>
+    <updated>2015-07-25T18:00:00+08:00</updated>
+    <id>http://sjtulxc.github.io/blog/Shanghai_part2</id>
+    <content type="html"><![CDATA[<p>自然博物馆。</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[杭州-千岛湖]]></title>
     
-    <link href="http://sjtulxc.github.io/blog/20150704/Hangzhou/"/>
+    <link href="http://sjtulxc.github.io/blog/Hangzhou/"/>
     <updated>2015-07-04T18:00:00+08:00</updated>
-    <id>http://sjtulxc.github.io/blog/20150704/Hangzhou</id>
+    <id>http://sjtulxc.github.io/blog/Hangzhou</id>
     <content type="html"><![CDATA[<p>杭州-千岛湖。</p>
-
-<h3>Day1</h3>
-
-<h3>Day2</h3>
-
-<h3>Day3</h3>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[上海①]]></title>
+    
+    <link href="http://sjtulxc.github.io/blog/Shanghai_part1/"/>
+    <updated>2015-06-07T18:00:00+08:00</updated>
+    <id>http://sjtulxc.github.io/blog/Shanghai_part1</id>
+    <content type="html"><![CDATA[<p>上海动物园。</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[南京]]></title>
     
-    <link href="http://sjtulxc.github.io/blog/20150501/Nanjing/"/>
+    <link href="http://sjtulxc.github.io/blog/Nanjing/"/>
     <updated>2015-05-01T18:00:00+08:00</updated>
-    <id>http://sjtulxc.github.io/blog/20150501/Nanjing</id>
+    <id>http://sjtulxc.github.io/blog/Nanjing</id>
     <content type="html"><![CDATA[<p>第二趟行程，便是南京之旅，这或许是第一次也是唯一一次两个人分道扬镳的旅行吧。</p>
-
-<h3>Day1</h3>
-
-<h3>Day2</h3>
-
-<h3>Day3</h3>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[扬州]]></title>
     
-    <link href="http://sjtulxc.github.io/blog/20150404/Yangzhou/"/>
+    <link href="http://sjtulxc.github.io/blog/Yangzhou/"/>
     <updated>2015-04-04T18:00:00+08:00</updated>
-    <id>http://sjtulxc.github.io/blog/20150404/Yangzhou</id>
+    <id>http://sjtulxc.github.io/blog/Yangzhou</id>
     <content type="html"><![CDATA[<p>第一次出行，在清明雨纷纷的四月初，选择了上海边上的扬州。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[写在儿童节]]></title>
+    
+    <link href="http://sjtulxc.github.io/blog/20160601/"/>
+    <updated>1990-01-03T18:00:00+08:00</updated>
+    <id>http://sjtulxc.github.io/blog/20160601</id>
+    <content type="html"><![CDATA[<p>又是一个不开心的晚上，似乎已经数不清最近究竟有多少个争吵着各自回寝室的夜晚了。</p>
 
-<h3>Day1</h3>
+<p>六月来了，儿童节快乐。你的生日似乎已经掐着手指头就可以看到了呢，只是感觉自己已经没有动力把剩下的东西去做完了，11篇游记，只写了苏州的，而且写的黯淡无光，更懒得贴图片上去。</p>
 
-<h3>Day2</h3>
+<p>这个网站大概是最近的心血所在吧，不敢说自己花了几百个小时在上面，100个小时肯定是远不止的，从什么都不会一点点开始学，一点点改，一点点加入新的东西，到最近终于把完整的框架搭了起来，让所有的地方都变成自己想看到的样子，大概你从来没有看见过吧，希望你也能觉得，这里的每一个地方都是你想看到的模样。</p>
 
-<h3>Day3</h3>
+<p>还有10篇没写的东西，大概是不想写了，感觉自己在这上面花越多的时间，每次吵架的时候只会越加生气和难过。半途而废真是一个需要很大的勇气来做出的决定，也但愿以后有时间，或者说，有机会的话，我们能共同把未完成的部分填上。</p>
+
+<p>域名是接近半年前就申请了的吧，你的名字，其实有“.我爱你”这种肉麻到不要不要的的后缀，只是觉得看上去好傻气，还是挑个朴素点的吧。很开心，终于能派上用场了。</p>
+
+<p>本来是生日礼物，反正生日的时候你大概也去玩耍了吧，况且已经穷得买不起一点点东西了。</p>
+
+<p>提前把这个网站给你看不是为了说明什么，只是觉得有点累了，不想做了，想撒手不管了，再者总觉得以现在两个人的状态，似乎连生日的时候在不在一起都说不准了呢。但是，anyway，不管你想的是什么，我想说，虽然有太多不确定，但是，从前，现在也是，有个男的</p>
+
+<p>他真的很爱你。</p>
+
+<p><br /><br /><br /></p>
+
+<p>晚安。</p>
+
+<h2><br /><br /><br /><br /><br /></h2>
+
+<p>6.1凌晨</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[5.26]]></title>
     
-    <link href="http://sjtulxc.github.io/blog/19900406/diary/"/>
-    <updated>1990-04-06T18:00:00+08:00</updated>
-    <id>http://sjtulxc.github.io/blog/19900406/diary</id>
+    <link href="http://sjtulxc.github.io/blog/20150526/"/>
+    <updated>1990-01-02T18:00:00+08:00</updated>
+    <id>http://sjtulxc.github.io/blog/20150526</id>
     <content type="html"><![CDATA[<p>最近真是闹得不太愉快呢，似乎也不应该有谁对谁错之分，有困难还是希望能共同努力去克服吧。<br /></p>
 
 <p>网站其实挺久以前就开始着手在弄了，一开始是不知如何下手，弄了一阵之后又开始遇到各种各样的困难，各种各样不知道怎么解决的问题，有时真的觉得好累啊做不下去了。</p>
@@ -205,9 +231,9 @@
   <entry>
     <title type="html"><![CDATA[那些碎碎念的日子里]]></title>
     
-    <link href="http://sjtulxc.github.io/blog/19900406/diaries/"/>
-    <updated>1990-04-06T18:00:00+08:00</updated>
-    <id>http://sjtulxc.github.io/blog/19900406/diaries</id>
+    <link href="http://sjtulxc.github.io/blog/20160501/"/>
+    <updated>1990-01-01T18:00:00+08:00</updated>
+    <id>http://sjtulxc.github.io/blog/20160501</id>
     <content type="html"><![CDATA[<p><br />
 <br /></p>
 

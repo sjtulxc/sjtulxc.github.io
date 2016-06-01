@@ -1,6 +1,17 @@
 {
   "images": [
 {
+  "src": ""/img/cover/shanghai_part3_cover.jpg""
+  , "width": ""nil"px"
+  , "thumbnail": ""/img/icon/shanghai_part3_icon.jpg""
+  , "title": ""解锁射击技能点""
+  , "link": "["/img/cover/shanghai_part3_cover.jpg","/img/icon/shanghai_part3_icon.jpg"]"
+  , "caption": ""解锁射击技能点""
+  , "alt": ""解锁射击技能点""
+}
+
+,
+{
   "src": ""/img/cover/suzhou_cover.jpg""
   
   , "thumbnail": ""/img/icon/suzhou_icon.jpg""
@@ -56,6 +67,17 @@
 
 ,
 {
+  "src": ""/img/cover/shanghai_part2_cover.jpg""
+  , "width": ""nil"px"
+  , "thumbnail": ""/img/icon/shanghai_part2_icon.jpg""
+  , "title": ""自然博物馆""
+  , "link": "["/img/cover/shanghai_part2_cover.jpg","/img/icon/shanghai_part2_icon.jpg"]"
+  , "caption": ""自然博物馆""
+  , "alt": ""自然博物馆""
+}
+
+,
+{
   "src": ""/img/cover/hangzhou_cover.jpg""
   , "width": ""nil"px"
   , "thumbnail": ""/img/icon/hangzhou_icon.jpg""
@@ -63,6 +85,17 @@
   , "link": "["/img/icon/hangzhou_icon.jpg","/img/cover/hangzhou_cover.jpg"]"
   , "caption": ""西湖烟雨""
   , "alt": ""西湖烟雨""
+}
+
+,
+{
+  "src": ""/img/cover/shanghai_part1_cover.jpg""
+  , "width": ""nil"px"
+  , "thumbnail": ""/img/icon/shanghai_part1_icon.jpg""
+  , "title": ""一个连长颈鹿都不放过的小女孩""
+  , "link": "["/img/cover/shanghai_part1_cover.jpg","/img/icon/shanghai_part1_icon.jpg"]"
+  , "caption": ""一个连长颈鹿都不放过的小女孩""
+  , "alt": ""一个连长颈鹿都不放过的小女孩""
 }
 
 ,
@@ -88,6 +121,8 @@
 }
 
 ,
+
+
 
 
 
